@@ -1,0 +1,10 @@
+{
+  "name": "Heritage Mancala",
+  "short_name": "Mancala",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#241613",
+  "theme_color": "#2C1B18",
+  "icons": []
+}
